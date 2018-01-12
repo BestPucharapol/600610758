@@ -8,6 +8,6 @@ int main() {
 		i++;
 	}
 	cout << sum;
-	
+	//GGEZ
 	return 0;
 }
